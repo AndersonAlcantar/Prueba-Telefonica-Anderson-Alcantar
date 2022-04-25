@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b52bd260-3f7f-4d46-9f10-f9442820a671": {
+      "ProjectGuid": "b52bd260-3f7f-4d46-9f10-f9442820a671",
+      "DisplayName": "pruebaTelefonica",
+      "ColorIndex": 0
+    },
+    "0f5f3a73-4bcb-4c43-8657-f39fa9295c11": {
+      "ProjectGuid": "0f5f3a73-4bcb-4c43-8657-f39fa9295c11",
+      "DisplayName": "pruebaTelefonicaTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
